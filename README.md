@@ -1,1 +1,1 @@
-# kodi
+# custom addons
