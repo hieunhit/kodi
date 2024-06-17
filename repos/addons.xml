@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-  <addon id="skin.nimbus" version="0.1.05" name="Nimbus" provider-name="Ivar Brandt">
+  <addon id="skin.nimbus" version="0.0.97-alpha.0" name="Nimbus" provider-name="Ivar Brandt">
     <requires>
       <import addon="xbmc.gui" version="5.17.0" />
       <import addon="script.nimbus.helper" />
