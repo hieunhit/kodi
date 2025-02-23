@@ -27,7 +27,7 @@
     </extension>
   </addon>
 
-  <addon id="plugin.video.pov" version="5.02.20-fs.1" name="POV" provider-name="kodifitzwell">
+  <addon id="plugin.video.pov" version="5.02.20-fs.2" name="POV" provider-name="kodifitzwell">
     <requires>
       <import addon="xbmc.python" version="3.0.0" />
       <import addon="script.module.requests" />
